@@ -1,23 +1,38 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=64FFDA&height=200&section=header&text=Rabiul%20Sujon&fontSize=50&fontColor=020C1B&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=020C1B" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications+%F0%9F%92%BB;Available+for+Remote+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://my-portfolio-tawny-theta-64.vercel.app"><img src="https://img.shields.io/badge/Portfolio-020C1B?style=for-the-badge&logo=vercel&logoColor=64FFDA" /></a>
+  <a href="https://www.linkedin.com/in/maven-rabiul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/MavenRabi98070"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:alamrabiul889@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rabiul-Sujon&label=Profile+Views&color=64FFDA&style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
-```typescript
-const rabiul = {
-  name: "Rabiul Sujon",
-  location: "Jashore, Bangladesh 🇧🇩",
-  role: "Full Stack Developer",
-  prevEducation: "BA @ Bangladesh Open University | Alexander College, Cyprus 🇨🇾",
-  currentWork: "Website Management Intern @ Canyon Entertainment Group 🇨🇦",
-  email: "alamrabiul889@gmail.com",
-  portfolio: "my-portfolio-tawny-theta-64.vercel.app",
-  available: true,
-};
-```
-
+| | |
+|---|---|
+| 👤 **Name** | Rabiul Sujon |
+| 📍 **Location** | Jashore, Bangladesh 🇧🇩 |
+| 🎓 **Education** | BA @ Bangladesh Open University 
+| 🏫 **Prev Study** | Alexander College, Cyprus 🇨🇾 |
+| 💼 **Currently** | Website Management Intern @ Canyon Entertainment Group 🇨🇦 |
+| 📧 **Email** | alamrabiul889@gmail.com |
+| 🌐 **Portfolio** | my-portfolio-tawny-theta-64.vercel.app |
+| ✅ **Available** | Open for Remote Work |
 
 - 🚀 Building scalable full-stack web applications with **Next.js**, **Node.js** & **MongoDB**
 - 🌍 Currently interning remotely at **Canyon Entertainment Group**, Canada
 - 🎯 Passionate about clean UI, performance optimization & real-world problem solving
-- 💡 Always learning — currently exploring **BetterAuth**, **Stripe**, & **Serverless APIs**
+- 💡 Always learning — currently exploring **BetterAuth**, **Stripe** & **Serverless APIs**
 - 📫 Open to **remote opportunities** across US, UK, Canada, Australia & EU
 
 ---
@@ -100,15 +115,12 @@ const rabiul = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabiul-Sujon&theme=tokyonight&hide_border=true&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" />
 </div>
-  
-  
 
 ---
 
 ## 🤝 Connect With Me
 
-
-  <div align="center">
+<div align="center">
   <a href="https://my-portfolio-tawny-theta-64.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-64FFDA?style=for-the-badge" />
   </a>
@@ -119,13 +131,9 @@ const rabiul = {
     <img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-    
 
 ---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=64FFDA&height=100&section=footer" />
 </div>
-
-  
-
-```
