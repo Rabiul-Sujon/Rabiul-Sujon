@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=64FFDA&height=200&section=header&text=Rabiul%20Sujon&fontSize=50&fontColor=020C1B&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=020C1B" />
+<img src="https://raw.githubusercontent.com/Rabiul-Sujon/Rabiul-Sujon/main/portfolio-logo.png" width="150" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=64FFDA&height=160&section=header&fontSize=50&fontColor=020C1B&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=020C1B" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications+%F0%9F%92%BB;Available+for+Remote+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
