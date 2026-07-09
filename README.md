@@ -115,7 +115,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabiul-Sujon&theme=tokyonight&hide_border=true&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" />
+ <img src="https://streak-stats.demolab.com?user=Rabiul-Sujon&theme=tokyonight&hide_border=true&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" />
 </div>
 
 ---
