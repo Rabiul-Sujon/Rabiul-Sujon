@@ -1,3 +1,4 @@
+```typescript
 const rabiul = {
   name: "Rabiul Sujon",
   location: "Jashore, Bangladesh 🇧🇩",
