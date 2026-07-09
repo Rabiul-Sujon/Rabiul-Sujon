@@ -1,15 +1,17 @@
+## 👨‍💻 About Me
+
 ```typescript
 const rabiul = {
   name: "Rabiul Sujon",
   location: "Jashore, Bangladesh 🇧🇩",
   role: "Full Stack Developer",
-  Education: "BA @ Bangladesh Open University | Alexander College, Cyprus 🇨🇾",
+  prevEducation: "BA @ Bangladesh Open University | Alexander College, Cyprus 🇨🇾",
   currentWork: "Website Management Intern @ Canyon Entertainment Group 🇨🇦",
   email: "alamrabiul889@gmail.com",
   portfolio: "my-portfolio-tawny-theta-64.vercel.app",
   available: true,
 };
-` ` `
+```
 
 
 - 🚀 Building scalable full-stack web applications with **Next.js**, **Node.js** & **MongoDB**
